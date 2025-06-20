@@ -1,0 +1,42 @@
+nav{
+    position: sticky;
+    top: 0;
+    background: blueviolet;
+    color: black;
+}
+ul{
+list-style: none;
+display: flex;
+justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+    padding: 5px;
+}
+
+img{
+
+    border-radius: 40%;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    font-weight: 800;
+    color: blueviolet;
+}
+.oleo-script-regular {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .oleo-script-bold {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;
+  }
+ 
+  .link{
+    color: blue;
+  }
